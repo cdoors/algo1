@@ -1,0 +1,15 @@
+Trading on strategies reduces the effectiveness
+Regime shifts/changes
+
+Workflow:
+1) Collect and prepare the data
+2) Develop a hypothesis
+3) Code the model
+4) Backtest the strategy before implementation
+
+Unsupervised learning
+- let the computer find patterns, relationships, and structures
+- extract insights from the data
+
+clustering, dimensionality reduction, anomaly detection, market regime detection, portfolio optimization
+
